@@ -118,4 +118,17 @@ vibe-ready/
 
 ---
 
+## 라이센스
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+이 저장소는 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 라이센스를 따릅니다.
+
+- ✅ 개인 학습 및 비상업적 사용 — 허용
+- ✅ 출처 표시 후 공유 — 허용
+- ❌ 상업적 사용 — 금지
+- ❌ 수정 후 다른 조건으로 배포 — 금지
+
+Copyright (c) 2026 Taewon
+
 *버전: 0.1 | 언어: 한국어 | 작성: 2026년 4월*
